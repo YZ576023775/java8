@@ -15,7 +15,7 @@ public class TestDemo {
         Person person1 = Person.getInstance();
         System.out.println(person1);
         Stream.of(1, 2, 3, 4, 5).filter(num -> num > 2).forEach(System.out::println);
-
+         System.out.println(person1);
 
     }
 }
