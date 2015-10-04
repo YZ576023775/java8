@@ -1,0 +1,35 @@
+body{
+    /*background-image: url("jl.gif");*/
+    /*background-color:red;*/
+    /*background-repeat: repeat;*/
+
+}
+p{   width: 100px;
+    color:blue;
+    font-family: fantasy;
+    font-size: 40px;
+    background-color: aqua;
+}
+a:visited{
+    color: #ff1fff;
+}
+a:link{
+    color: #ff000f;
+}a:hover{
+    color: #00000f;
+}
+ a:active{
+     color:#f100ff;
+ }
+ ui li{
+     list-style-image:url('/jl.gif');
+ }
+th,td {
+    border: 3px,solid,aqua;
+}
+#1 {
+    width:1001px;
+    height: 151px;
+    background-color: #f100ff;
+}
+
